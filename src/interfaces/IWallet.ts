@@ -1,5 +1,5 @@
-import { AbstractConnector } from "@web3-react/abstract-connector";
-import { ethers } from "ethers";
+import { AbstractConnector } from '@web3-react/abstract-connector';
+import { ethers } from 'ethers';
 
 export interface IWallet {
   account: string;
